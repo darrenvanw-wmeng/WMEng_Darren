@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04XtPLSYbyw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darren\\WATSON MATTHEUS Dropbox\\Darren Van Wyngaardt\\Website\\WMEng_Darren\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darren\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

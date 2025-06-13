@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Darren\\WATSON MATTHEUS Dropbox\\Darren Van Wyngaardt\\Website\\WMEng_Darren\\MyCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7EEBD20-9E46-48D3-BBD4-1B3B1005BAF7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\darren\\watson mattheus dropbox\\darren van wyngaardt\\website\\wmeng_darren\\mycoreapp\\mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7EEBD20-9E46-48D3-BBD4-1B3B1005BAF7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA6D9554-93AC-486D-A1B1-20AEBAB1B393}|MyCoreApp.csproj|c:\\users\\darren\\watson mattheus dropbox\\darren van wyngaardt\\website\\wmeng_darren\\mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6D9554-93AC-486D-A1B1-20AEBAB1B393}|MyCoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Darren\\WATSON MATTHEUS Dropbox\\Darren Van Wyngaardt\\Website\\WMEng_Darren\\MyCoreApp\\MyCoreApp\\Program.cs",
-              "RelativeDocumentMoniker": "MyCoreApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Darren\\WATSON MATTHEUS Dropbox\\Darren Van Wyngaardt\\Website\\WMEng_Darren\\MyCoreApp\\MyCoreApp\\Program.cs",
-              "RelativeToolTip": "MyCoreApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Darren\\WATSON MATTHEUS Dropbox\\Darren Van Wyngaardt\\Website\\WMEng_Darren\\MyCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Darren\\WATSON MATTHEUS Dropbox\\Darren Van Wyngaardt\\Website\\WMEng_Darren\\MyCoreApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:25:40.781Z",
+              "WhenOpened": "2025-06-13T08:47:46.921Z",
               "EditorCaption": ""
             }
           ]
